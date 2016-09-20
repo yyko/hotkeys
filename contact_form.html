@@ -1,13 +1,14 @@
 <div class="text_canvas" style="background-color: white; width: 500px; height: 690px; opacity: 0.5;">
 
 <iframe id="hidden_iframe" style="display: none;" name="hidden_iframe" width="300" height="150"></iframe>
-<form id="mG61Hd" action="https://docs.google.com/forms/d/e/1FAIpQLScjeijr-EDXgoXj1Dysa2faMb5gKtEPbu_mAY0_qntRiiygSg/formResponse" method="POST" target="hidden_iframe">
-<div style="padding-left: 10px;">
-   Write us what do you want to do using google script:
-   <input id="mail" name="entry.1804388160" type="email" value="" placeholder="your email" />
-   <input id="p_name" name="entry.1975143798" type="text" value="" placeholder="your name" />
-   <textarea id="order" name="entry.750772832" placeholder="your desire..."></textarea>
-   <input type="submit" value="Place order" />
-</div>
+<form id="mG61Hd" action="https://docs.google.com/forms/d/e/1FAIpQLScjeijr-EDXgoXj1Dysa2faMb5gKtEPbu_mAY0_qntRiiygSg/formResponse" method="POST" target="hidden_iframe" onsubmit="return validate();">
+	<div style="padding-left: 10px;">
+	   Write us what do you want to do using google script:
+	   <input id="mail" name="entry.1804388160" type="email" value="" placeholder="your email" />
+	   <input id="p_name" name="entry.1975143798" type="text" value="" placeholder="your name" />
+	   <textarea id="order" name="entry.750772832" placeholder="your desire..."></textarea>
+	   <input type="submit" value="Place order" />
+	</div>
 </form>
+
 </div>
