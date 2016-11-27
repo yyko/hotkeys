@@ -1,5 +1,5 @@
 ﻿^1::
-	Run, http://first.sedecilliard.com/index.php/myspace/
+	Run, https://docs.google.com/spreadsheets/d/1WoTc-gFUt-3qJbp8VhnyNQS5tyF8wj6wpwJJZ_AwK-M/edit#gid=0
 Return
 ^2::
 	Run, https://docs.google.com/spreadsheets/d/1govPNq7men9Po0NNywKP-KUbpmQ9zVUBTXkJ75OPu_M/edit#gid=507617203
@@ -16,6 +16,14 @@ Return
 Return
 ^6::
 	Run, https://drive.google.com/drive/my-drive
+Return
+
+^7::
+	Run, http://first.sedecilliard.com/index.php/myspace/
+Return
+
+^8::
+	Run, http://first.sedecilliard.com/index.php/tests/
 Return
 
 
@@ -48,7 +56,6 @@ Return
 
 ^[::
 	Run, https://script.google.com/macros/d/MHPc-UOYb29f1dnXGTagP2WnGTgjZkW_y/edit?uiv=2&mid=ACjPJvFA7YFtvIrGZIlH_LJreh31kyW8j2UdyEy4evBy1FqH0f1b6pIe4672PRPh_TcE78_PqO6L_uzQe9tr6pl-5dc6xMLOG0WrV9V1sipyhYssigTClZFu39c9CFrqEPkpzCSZ0sG5
-	Run, https://docs.google.com/spreadsheets/d/1govPNq7men9Po0NNywKP-KUbpmQ9zVUBTXkJ75OPu_M/edit#gid=2036813278
 Return 
 
 ^l::
