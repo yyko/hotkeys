@@ -6,7 +6,7 @@ Return
 	Run, https://docs.google.com/spreadsheets/d/1WoTc-gFUt-3qJbp8VhnyNQS5tyF8wj6wpwJJZ_AwK-M/edit#gid=0
 Return
 
-^1::
+^5::
 	Run, https://docs.google.com/spreadsheets/d/1573LZ-IIgQTpJztKw3upmzBdwEyl1OSbjGDtAw_IM9A/edit#gid=270768900
 Return
 ^2::
@@ -18,7 +18,7 @@ Return
 ^4::
 	Run, https://www.youtube.com/
 Return
-^5::
+^1::
 ;<-- starring
 	Run, https://docs.google.com/spreadsheets/d/1EBQJ_q4aNsJbfTyjAekBChBGJg7jvsDuopwK_47TIP0/edit#gid=0
 Return
