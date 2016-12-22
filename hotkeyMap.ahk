@@ -1,4 +1,8 @@
-﻿^9::
+﻿^/::
+   Send, %A_YYYY%-%A_MM%-%A_DD% 
+Return
+
+^9::
 	Run, http://first.sedecilliard.com/myspace/diary
 Return
 
