@@ -11,21 +11,26 @@ Return
 Return
 
 ^/::
+;<--ISO8601d
    Send, %A_YYYY%-%A_MM%-%A_DD% 
 Return
 
 ^9::
+;<--diary viewer
 	Run, http://first.sedecilliard.com/myspace/diary
 Return
 
 ^0::
+;<--Mindcatcher
 	Run, https://docs.google.com/spreadsheets/d/1WoTc-gFUt-3qJbp8VhnyNQS5tyF8wj6wpwJJZ_AwK-M/edit#gid=0
 Return
 
 ^5::
+;<-- dater
 	Run, https://docs.google.com/spreadsheets/d/1573LZ-IIgQTpJztKw3upmzBdwEyl1OSbjGDtAw_IM9A/edit#gid=1235872867
 Return
 ^4::
+;<-- workshop
 	Run, https://docs.google.com/spreadsheets/d/1govPNq7men9Po0NNywKP-KUbpmQ9zVUBTXkJ75OPu_M/edit#gid=507617203
 Return
 ^3::
@@ -43,10 +48,12 @@ Return
 Return
 
 ^7::
+;<--acs interface
 	Run, http://first.sedecilliard.com/index.php/myspace/
 Return
 
 ^8::
+;<--acs tests
 	Run, http://first.sedecilliard.com/index.php/tests/
 Return
 
