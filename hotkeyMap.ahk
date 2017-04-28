@@ -20,7 +20,7 @@ Return
 	Run, http://first.sedecilliard.com/myspace/diary
 Return
 
-^0::
+^1::
 ;<--Mindcatcher
 	Run, https://docs.google.com/spreadsheets/d/1WoTc-gFUt-3qJbp8VhnyNQS5tyF8wj6wpwJJZ_AwK-M/edit#gid=0
 Return
@@ -39,7 +39,7 @@ Return
 ^2::
 	Run, https://www.youtube.com/
 Return
-^1::
+^0::
 ;<-- starring
 	Run, https://docs.google.com/spreadsheets/d/1EBQJ_q4aNsJbfTyjAekBChBGJg7jvsDuopwK_47TIP0/edit#gid=0
 Return
