@@ -1,4 +1,12 @@
-﻿^/::
+﻿^!e::
+  Run, https://docs.google.com/forms/d/1cq8Fp1qd7sudFl3koWkR8Ccdh25lvMs0uTVRoEKTo6Y/viewform
+Return
+
+^\::
+	Run, https://bitinfocharts.com/comparison/price-dash.html
+Return
+
+^/::
    Send, %A_YYYY%-%A_MM%-%A_DD% 
 Return
 
@@ -131,7 +139,7 @@ Return
 Return
 
 ^e::
-	Run, https://docs.google.com/forms/d/1cq8Fp1qd7sudFl3koWkR8Ccdh25lvMs0uTVRoEKTo6Y/viewform
+	Run, http://first.sedecilliard.com/myspace/new_event
 Return
 
 ^b::
