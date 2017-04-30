@@ -1,3 +1,7 @@
+^!3::
+  Run, http://third.sedecilliard.com/admin
+Return
+
 ^q::
 	Run, http://google.com
 Return
