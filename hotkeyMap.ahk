@@ -1,3 +1,7 @@
+^q::
+	Run, http://google.com
+Return
+
 ^!p::
   Run, http://first.sedecilliard.com/myspace/dayscores
 Return
@@ -133,7 +137,7 @@ Return
 	Run, https://translate.google.ru/#en/ru/
 Return
 
-^q::
+^!q::
 	Run, http://first.sedecilliard.com/index.php/myspace/new_question
 Return
 
