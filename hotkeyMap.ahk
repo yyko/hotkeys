@@ -6,7 +6,7 @@ Return
 	Run, http://google.com
 Return
 
-^!p::
+^!9::
   Run, http://first.sedecilliard.com/myspace/dayscores
 Return
 
