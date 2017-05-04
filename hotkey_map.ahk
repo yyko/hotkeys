@@ -1,3 +1,7 @@
+^0::
+	Run, http://sedecilliard.com
+Return
+
 ^!3::
   Run, http://third.sedecilliard.com/admin
 Return
@@ -14,7 +18,7 @@ Return
   Run, https://docs.google.com/forms/d/1cq8Fp1qd7sudFl3koWkR8Ccdh25lvMs0uTVRoEKTo6Y/viewform
 Return
 
-^\::
+^!\::
 	Run, https://bitinfocharts.com/comparison/price-dash.html
 Return
 
@@ -35,7 +39,7 @@ Return
 
 ^5::
 ;<-- dater
-	Run, https://docs.google.com/spreadsheets/d/1573LZ-IIgQTpJztKw3upmzBdwEyl1OSbjGDtAw_IM9A/edit#gid=1235872867
+	Run, https://docs.google.com/spreadsheets/d/1573LZ-IIgQTpJztKw3upmzBdwEyl1OSbjGDtAw_IM9A/edit#gid=154900520
 Return
 ^4::
 ;<-- workshop
@@ -47,7 +51,7 @@ Return
 ^2::
 	Run, https://www.youtube.com/
 Return
-^0::
+^!0::
 ;<-- starring
 	Run, https://docs.google.com/spreadsheets/d/1EBQJ_q4aNsJbfTyjAekBChBGJg7jvsDuopwK_47TIP0/edit#gid=0
 Return
@@ -165,6 +169,6 @@ Return
 	Run, https://docs.google.com/forms/d/1gluxblHuneSnMBHhKdJN7JQ8GSVxmURSzscQ0n1GcRE/viewform
 Return
 
-^r::
+^!r::
 	Run, http://first.sedecilliard.com/index.php/myspace/new_dairy_record
 Return
