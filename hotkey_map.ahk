@@ -1,3 +1,7 @@
+^!,::
+   Send, applications@virtuallyincredible.com
+Return
+
 ^0::
 	Run, http://sedecilliard.com
 Return
