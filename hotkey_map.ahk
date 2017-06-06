@@ -19,7 +19,7 @@ Return
 Return
 
 ^!\::
-	Run, https://bitinfocharts.com/comparison/price-dash.html
+	Run, https://bitinfocharts.com/comparison/ethereum-price.html
 Return
 
 ^/::
