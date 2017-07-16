@@ -36,7 +36,7 @@ Return
 	Run, http://first.sedecilliard.com/myspace/diary
 Return
 
-^1::
+^3::
 ;<--Mindcatcher
 	Run, https://docs.google.com/spreadsheets/d/1WoTc-gFUt-3qJbp8VhnyNQS5tyF8wj6wpwJJZ_AwK-M/edit#gid=0
 Return
@@ -49,7 +49,7 @@ Return
 ;<-- workshop
 	Run, https://docs.google.com/spreadsheets/d/1govPNq7men9Po0NNywKP-KUbpmQ9zVUBTXkJ75OPu_M/edit#gid=507617203
 Return
-^3::
+^1::
 	Run, https://docs.google.com/spreadsheets/d/1Vbi6_QfKnQrBHjAdREWA0cqkbPAX6dsYB7mjJhVjvQ8/edit
 Return
 ^2::
