@@ -48,7 +48,7 @@ Return
 
 ^5::
 ;<-- dater
-	Run, https://docs.google.com/spreadsheets/d/1573LZ-IIgQTpJztKw3upmzBdwEyl1OSbjGDtAw_IM9A/edit#gid=154900520
+	Run, https://docs.google.com/spreadsheets/d/1573LZ-IIgQTpJztKw3upmzBdwEyl1OSbjGDtAw_IM9A/edit#gid=313180760
 Return
 ^4::
 ;<-- workshop
