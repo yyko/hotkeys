@@ -2,6 +2,11 @@
    Send, applications@virtuallyincredible.com
 Return
 
+^y::
+	Run, vim.exe
+Return
+
+
 ^0::
 	Run, http://sedecilliard.com
 Return
