@@ -41,7 +41,7 @@ Return
 	Run, http://first.sedecilliard.com/myspace/diary
 Return
 
-^3::
+^2::
 ;<--Mindcatcher
 	Run, https://docs.google.com/spreadsheets/d/1WoTc-gFUt-3qJbp8VhnyNQS5tyF8wj6wpwJJZ_AwK-M/edit#gid=0
 Return
@@ -57,7 +57,7 @@ Return
 ^1::
 	Run, https://docs.google.com/spreadsheets/d/1Vbi6_QfKnQrBHjAdREWA0cqkbPAX6dsYB7mjJhVjvQ8/edit
 Return
-^2::
+^3::
 	Run, https://www.youtube.com/
 Return
 ^!0::
