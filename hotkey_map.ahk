@@ -33,7 +33,7 @@ Return
 
 ^/::
 ;<--ISO8601d
-   Send, %A_YYYY%-%A_MM%-%A_DD% 
+   Send, %A_YYYY%-%A_MM%-%A_DD%
 Return
 
 ^9::
@@ -123,7 +123,7 @@ Return
 Return
 
 ^k::
-	Run, http://first.sedecilliard.com/index.php/myspace/new_event
+	Run, http://second.sedecilliard.com
 Return
 
 ^m::
