@@ -5,8 +5,11 @@
   "main": "main.js",
   "scripts": {
     "test": "test",
-    "start":"node main.js"
+    "start": "node main.js"
   },
   "author": "yyk@mail.ru",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
 }
