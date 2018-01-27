@@ -16,7 +16,6 @@ fs.readFile('hotkey_map.ahk', 'utf8', function(err, data) {
           if (hotkey_map[kwd_btn] == undefined) {
            hotkey_map[kwd_btn] = {};
            var prefix = hotkey_code.replace(kwd_btn, '');
-           console.log(prefix);
            if (prefix == '^'){
              hotkey_map[kwd_btn].ctrl = {action:'action for ctrl ' + kwd_btn};
            }
@@ -27,5 +26,5 @@ fs.readFile('hotkey_map.ahk', 'utf8', function(err, data) {
          }
       }
     })
-    console.log(hotkey_map);
+    console.log(utils.keys(hotkey_map).length);
 });
