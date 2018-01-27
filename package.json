@@ -1,0 +1,12 @@
+{
+  "name": "kernel",
+  "version": "0.0.1",
+  "description": "Core things like hotkeymap for now",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start":"node main.js"
+  },
+  "author": "yyk@mail.ru",
+  "license": "MIT"
+}
