@@ -85,14 +85,13 @@ Return
 
 
 
-^]:: ;<-- change this if you want a diff hotkey
+^]::
   Chars1 = abcdefghijklmnopqrstuvwxyz
   Chars2 = ABCDEFGHIJKLMNOPQRSTUVWXYZ
   Chars3 = 1234567890[]{}$#@!~0123456
   str =
   UpperRange = 3;
-  len = 16 ;<-- number of characters in the password
-  
+  len = 16 ;<-- number of characters in the password  
   ; generate a new password
   loop, %len%
   { random,x,1,%UpperRange% ;<-- selects the Character string
@@ -108,7 +107,7 @@ Return
 
 ^[::
 	Run, https://script.google.com/macros/d/MHPc-UOYb29f1dnXGTagP2WnGTgjZkW_y/edit?uiv=2&mid=ACjPJvFA7YFtvIrGZIlH_LJreh31kyW8j2UdyEy4evBy1FqH0f1b6pIe4672PRPh_TcE78_PqO6L_uzQe9tr6pl-5dc6xMLOG0WrV9V1sipyhYssigTClZFu39c9CFrqEPkpzCSZ0sG5
-Return 
+Return
 
 ^l::
    Send, %A_YYYY%-%A_MM%-%A_DD%-%A_Hour%-%A_Min%-%A_Sec%
