@@ -20,7 +20,7 @@ Return
 Return
 
 ^!9::
-  Run, http://first.sedecilliard.com/myspace/dayscores
+  Run, http://first.sedecilliard.com/myspace/yearscores
 Return
 
 ^!e::
@@ -91,7 +91,7 @@ Return
   Chars3 = 1234567890[]{}$#@!~0123456
   str =
   UpperRange = 3;
-  len = 16 ;<-- number of characters in the password  
+  len = 16 ;<-- number of characters in the password
   ; generate a new password
   loop, %len%
   { random,x,1,%UpperRange% ;<-- selects the Character string
