@@ -11,8 +11,6 @@ Return
    Send, applications@virtuallyincredible.com
 Return
 
-^y::
-	Run, vim.exe
 Return
 
 
