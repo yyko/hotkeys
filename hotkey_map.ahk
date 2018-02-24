@@ -1,3 +1,12 @@
+
+^!9::
+  Run, http://first.sedecilliard.com/myspace/dayscores
+Return
+
+^!(::
+  Run, http://first.sedecilliard.com/myspace/yearscores
+Return
+
 ^!,::
    Send, applications@virtuallyincredible.com
 Return
