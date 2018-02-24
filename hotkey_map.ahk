@@ -11,6 +11,8 @@ Return
    Send, applications@virtuallyincredible.com
 Return
 
+^r::
+	Run, sublime_text.exe X:\gdisk\max\!!!text\diary.txt
 Return
 
 
