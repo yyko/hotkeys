@@ -1,43 +1,97 @@
 
+;<--ctrlaltshift ****************************************************************************************************************
+
+;<--Yearscores view ctlaltshift 9
+^!(::
+  Run, http://first.sedecilliard.com/myspace/yearscores
+Return
+
+;<--ctrlalt ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+;<--row I ----------------------------------------------------------------------------------------------------------------------
+;<-- Admin for blog
+^!3::
+  Run, http://third.sedecilliard.com/admin
+Return
+
+;<--Day scores view ctlalt 9
 ^!9::
   Run, http://first.sedecilliard.com/myspace/dayscores
 Return
 
-^!(::
-  Run, http://first.sedecilliard.com/myspace/yearscores
+;<-- Casting preparations
+^!0::
+;<-- starring
+  Run, https://docs.google.com/spreadsheets/d/1EBQJ_q4aNsJbfTyjAekBChBGJg7jvsDuopwK_47TIP0/edit#gid=0
+Return
+
+;<--Underscore gs library key
+^!-::
+  Send, M3i7wmUA_5n0NSEaa6NnNqOBao7QLBR4j
+Return
+
+
+;<--row II ----------------------------------------------------------------------------------------------------------------------
+
+;<-- question registration
+^!q::
+  Run, http://first.sedecilliard.com/myspace/new_question
+Return
+
+;<-- new cloud diary record
+^!r::
+  Run, http://first.sedecilliard.com/myspace/new_dairy_record
+Return
+
+;<-- Error registration
+^!e::
+  Run, https://docs.google.com/forms/d/1cq8Fp1qd7sudFl3koWkR8Ccdh25lvMs0uTVRoEKTo6Y/viewform
+Return
+
+;<-- Cardano rate
+^!\::
+  Run, https://coinmarketcap.com/currencies/cardano/
 Return
 
 ^!,::
    Send, applications@virtuallyincredible.com
 Return
 
+;<--Mindcatcher
+^!a::
+  Run, https://docs.google.com/spreadsheets/d/1WoTc-gFUt-3qJbp8VhnyNQS5tyF8wj6wpwJJZ_AwK-M/edit#gid=0
+Return
+
+;<--ctrl =====================================================================================================================
+;<--ctrl =====================================================================================================================
+;<--ctrl =====================================================================================================================
+;<--ctrl =====================================================================================================================
+
+;<-- Spain phone number to keyboard
+^BS::
+SendRaw, +34625415306
+Return
+
+^1::
+;<--Z-tracker dev
+  Run, https://docs.google.com/spreadsheets/d/10RT0C8hJVSCSp2sjKK09TUnq2z8vNGENCgjqGg6NH-4/edit#gid=799273363
+Return
+
+^2::
+;<- Cronos
+  Run, https://docs.google.com/spreadsheets/d/1Vbi6_QfKnQrBHjAdREWA0cqkbPAX6dsYB7mjJhVjvQ8/edit
+Return
+
 ^r::
 	Run, sublime_text.exe X:\gdisk\max\!!!text\diary.txt
 Return
 
-
 ^0::
-	Run, http://sedecilliard.com
-Return
-
-^!3::
-  Run, http://third.sedecilliard.com/admin
+	Run, https://docs.google.com/spreadsheets/d/1vviBdnN1sXz7KKDfVsxNJjB2qdXGHgcOgHo27-VSX2c/edit#gid=273966315
 Return
 
 ^q::
 	Run, http://google.com
-Return
-
-^!9::
-  Run, http://first.sedecilliard.com/myspace/yearscores
-Return
-
-^!e::
-  Run, https://docs.google.com/forms/d/1cq8Fp1qd7sudFl3koWkR8Ccdh25lvMs0uTVRoEKTo6Y/viewform
-Return
-
-^!\::
-	Run, https://bitinfocharts.com/comparison/ethereum-price.html
 Return
 
 ^/::
@@ -50,49 +104,37 @@ Return
 	Run, http://first.sedecilliard.com/myspace/diary
 Return
 
-^2::
-;<--Mindcatcher
-	Run, https://docs.google.com/spreadsheets/d/1WoTc-gFUt-3qJbp8VhnyNQS5tyF8wj6wpwJJZ_AwK-M/edit#gid=0
+^5::
+;<-- lifetracker
+	Run, https://docs.google.com/spreadsheets/d/1573LZ-IIgQTpJztKw3upmzBdwEyl1OSbjGDtAw_IM9A/edit#gid=313180760
 Return
 
-^5::
-;<-- dater
-	Run, https://docs.google.com/spreadsheets/d/1573LZ-IIgQTpJztKw3upmzBdwEyl1OSbjGDtAw_IM9A/edit#gid=1820679807
-Return
 ^4::
 ;<-- workshop
 	Run, https://docs.google.com/spreadsheets/d/1govPNq7men9Po0NNywKP-KUbpmQ9zVUBTXkJ75OPu_M/edit#gid=507617203
 Return
-^1::
-	Run, https://docs.google.com/spreadsheets/d/1Vbi6_QfKnQrBHjAdREWA0cqkbPAX6dsYB7mjJhVjvQ8/edit
-Return
+
 ^3::
 	Run, https://www.youtube.com/
 Return
-^!0::
-;<-- starring
-	Run, https://docs.google.com/spreadsheets/d/1EBQJ_q4aNsJbfTyjAekBChBGJg7jvsDuopwK_47TIP0/edit#gid=0
-Return
+
 ^6::
 	Run, https://drive.google.com/drive/my-drive
 Return
 
 ^7::
 ;<--acs interface
-	Run, http://first.sedecilliard.com/index.php/myspace/
+	Run, http://first.sedecilliard.com/myspace/
 Return
 
 ^8::
 ;<--acs tests
-	Run, http://first.sedecilliard.com/index.php/tests/
+	Run, http://first.sedecilliard.com/tests/
 Return
-
 
 ^'::
 	Run, https://scp8.hosting.reg.ru:2083/login/?user=u7966147&pass=NyD5F0f1&_ga=1.158186810.1898320091.1448580007
 Return
-
-
 
 ^]::
   Chars1 = abcdefghijklmnopqrstuvwxyz
@@ -112,10 +154,8 @@ Return
   Send, %str%
 Return
 
-
-
 ^[::
-	Run, https://script.google.com/macros/d/MHPc-UOYb29f1dnXGTagP2WnGTgjZkW_y/edit?uiv=2&mid=ACjPJvFA7YFtvIrGZIlH_LJreh31kyW8j2UdyEy4evBy1FqH0f1b6pIe4672PRPh_TcE78_PqO6L_uzQe9tr6pl-5dc6xMLOG0WrV9V1sipyhYssigTClZFu39c9CFrqEPkpzCSZ0sG5
+	Run, https://script.google.com/macros/d/MvX2YvxJMSn40KkkQJzlIy3YRqgr2Y_bu/edit?uiv=2&mid=ACjPJvFSZdzvSGvU7nk-lM9TU7oD0vWACn-pdX6w0AZJI4NY1O1HPrLJ_4wQYyhe-oXBQx-rLLtWv7gtirI-QFUFfCTSmLeu3W50KWLeVBdnEFe3sT8KW32Ua_i_oOSpfhaeSHM6xDtV
 Return
 
 ^l::
@@ -137,8 +177,6 @@ Return
 ^m::
 	Suspend
 Return
-
-
 
 #IfWinActive ahk_class ConsoleWindowClass
 ^V::
@@ -162,12 +200,8 @@ Return
 	Run, https://translate.google.ru/#en/ru/
 Return
 
-^!q::
-	Run, http://first.sedecilliard.com/index.php/myspace/new_question
-Return
-
 ^o::
-	Run, http://first.sedecilliard.com/index.php/myspace/register_target
+	Run, http://first.sedecilliard.com/myspace/register_target
 Return
 
 ^,::
@@ -184,8 +218,4 @@ Return
 
 ^b::
 	Run, https://docs.google.com/forms/d/1gluxblHuneSnMBHhKdJN7JQ8GSVxmURSzscQ0n1GcRE/viewform
-Return
-
-^!r::
-	Run, http://first.sedecilliard.com/index.php/myspace/new_dairy_record
 Return
