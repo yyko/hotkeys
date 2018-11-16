@@ -9,6 +9,12 @@ Return
 ;<--ctrlalt ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 ;<--row I ----------------------------------------------------------------------------------------------------------------------
+
+^2::
+;<- Cronos
+  Run, https://docs.google.com/spreadsheets/d/1Vbi6_QfKnQrBHjAdREWA0cqkbPAX6dsYB7mjJhVjvQ8/edit
+Return
+
 ;<-- Admin for blog
 ^!3::
   Run, http://third.sedecilliard.com/admin
@@ -77,9 +83,10 @@ Return
   Run, https://docs.google.com/spreadsheets/d/10RT0C8hJVSCSp2sjKK09TUnq2z8vNGENCgjqGg6NH-4/edit#gid=799273363
 Return
 
+;<--Paranoia
 ^2::
 ;<- Cronos
-  Run, https://docs.google.com/spreadsheets/d/1Vbi6_QfKnQrBHjAdREWA0cqkbPAX6dsYB7mjJhVjvQ8/edit
+  Run, https://docs.google.com/spreadsheets/d/1vviBdnN1sXz7KKDfVsxNJjB2qdXGHgcOgHo27-VSX2c/edit#gid=273966315
 Return
 
 ^r::
