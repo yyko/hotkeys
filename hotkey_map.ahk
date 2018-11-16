@@ -96,7 +96,7 @@ Return
 	Run, http://google.com
 Return
 
-^/::
+^i::
 ;<--ISO8601d
    Send, %A_YYYY%-%A_MM%-%A_DD%
 Return
@@ -190,10 +190,6 @@ return
 
 ^j::
 	Send, MiG4_W1r11tG3qxEw9wFTbGnGTgjZkW_y
-Return
-
-^i::
-	Run, https://docs.google.com/forms/d/1tAteI94mbTy486BNdYK5jiZiE8evC6QEHwIyU2uiyyo/viewform
 Return
 
 ^.::
