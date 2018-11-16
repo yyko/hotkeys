@@ -26,9 +26,9 @@ Return
   Run, https://docs.google.com/spreadsheets/d/1EBQJ_q4aNsJbfTyjAekBChBGJg7jvsDuopwK_47TIP0/edit#gid=0
 Return
 
-;<--Underscore gs library key
+;<--SVG canvas
 ^!-::
-  Send, M3i7wmUA_5n0NSEaa6NnNqOBao7QLBR4j
+  Run, http://second.sedecilliard.com
 Return
 
 
@@ -172,8 +172,10 @@ Return
 	Run, https://gmail.com
 Return
 
+
+;<--Underscore gs library key
 ^k::
-	Run, http://second.sedecilliard.com
+  Send, M3i7wmUA_5n0NSEaa6NnNqOBao7QLBR4j
 Return
 
 ^m::
