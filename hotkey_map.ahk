@@ -79,7 +79,7 @@ Return
 Return
 
 ;<--Paranoia
-^2::
+^0::
   Run, https://docs.google.com/spreadsheets/d/1vviBdnN1sXz7KKDfVsxNJjB2qdXGHgcOgHo27-VSX2c/edit#gid=273966315
 Return
 
@@ -88,8 +88,8 @@ Return
 Return
 
 ;<- Cronos
-^0::
-  Run, https://docs.google.com/spreadsheets/d/1Vbi6_QfKnQrBHjAdREWA0cqkbPAX6dsYB7mjJhVjvQ8/edit
+^2::
+  Run, https://docs.google.com/spreadsheets/d/1S3zzkkUYJjYSKfk0sHkEZZwDiR7GV7ml3LqG60P_B0c/edit#gid=1419761134
 Return
 
 ^q::
