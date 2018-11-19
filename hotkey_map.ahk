@@ -68,6 +68,13 @@ Return
 ;<--ctrl =====================================================================================================================
 ;<--ctrl =====================================================================================================================
 
+
+;<-- Project questionary
+^\::
+  Run , https://docs.google.com/forms/d/e/1FAIpQLSe8-MhrZNdPWRFSLua1bLQiffgJ1t-p3s6d7GhpdIZ0uXi0Yg/viewform
+Return
+
+
 ;<-- Spain phone number to keyboard
 ^BS::
 SendRaw, +34625415306
