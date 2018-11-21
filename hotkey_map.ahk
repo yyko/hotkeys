@@ -34,6 +34,11 @@ Return
 
 ;<--row II ----------------------------------------------------------------------------------------------------------------------
 
+;<-- Project questionary
+^!v::
+  Run , https://docs.google.com/forms/d/e/1FAIpQLSe8-MhrZNdPWRFSLua1bLQiffgJ1t-p3s6d7GhpdIZ0uXi0Yg/viewform
+Return
+
 ;<-- question registration
 ^!q::
   Run, http://first.sedecilliard.com/myspace/new_question
@@ -69,9 +74,9 @@ Return
 ;<--ctrl =====================================================================================================================
 
 
-;<-- Project questionary
+;<-- z-tracker dev
 ^\::
-  Run , https://docs.google.com/forms/d/e/1FAIpQLSe8-MhrZNdPWRFSLua1bLQiffgJ1t-p3s6d7GhpdIZ0uXi0Yg/viewform
+  Run , https://docs.google.com/spreadsheets/d/10RT0C8hJVSCSp2sjKK09TUnq2z8vNGENCgjqGg6NH-4/edit#gid=799273363
 Return
 
 
