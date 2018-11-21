@@ -101,7 +101,7 @@ Return
 
 ;<- Cronos
 ^2::
-  Run, https://docs.google.com/spreadsheets/d/1S3zzkkUYJjYSKfk0sHkEZZwDiR7GV7ml3LqG60P_B0c/edit#gid=1419761134
+  Run, https://docs.google.com/spreadsheets/d/1Vbi6_QfKnQrBHjAdREWA0cqkbPAX6dsYB7mjJhVjvQ8/edit#gid=1419761134
 Return
 
 ^q::
