@@ -86,8 +86,8 @@ SendRaw, +34625415306
 Return
 
 ^1::
-;<--Z-tracker dev
-  Run, https://docs.google.com/spreadsheets/d/10RT0C8hJVSCSp2sjKK09TUnq2z8vNGENCgjqGg6NH-4/edit#gid=799273363
+;<--Z-tracker prod
+  Run, https://docs.google.com/spreadsheets/d/1oxeBVPmaSTdtK9kuGg68xPdnLlfoMAEeFodNxtM7nio/edit#gid=719719442
 Return
 
 ;<--Paranoia
