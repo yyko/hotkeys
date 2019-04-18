@@ -34,6 +34,12 @@ Return
 
 ;<--row II ----------------------------------------------------------------------------------------------------------------------
 
+;<-- Google translate
+^!w::
+  Run, https://translate.google.ru/#en/ru/
+Return
+
+
 ;<-- Project questionary
 ^!v::
   Run , https://docs.google.com/forms/d/e/1FAIpQLSe8-MhrZNdPWRFSLua1bLQiffgJ1t-p3s6d7GhpdIZ0uXi0Yg/viewform
@@ -82,12 +88,12 @@ Return
 
 ;<-- Spain phone number to keyboard
 ^BS::
-SendRaw, +34625415306
+SendRaw, +59899322122
 Return
 
 ^1::
-;<--Z-tracker prod
-  Run, https://docs.google.com/spreadsheets/d/1oxeBVPmaSTdtK9kuGg68xPdnLlfoMAEeFodNxtM7nio/edit#gid=719719442
+;<--Z- Cronos dev
+  Run, https://docs.google.com/spreadsheets/d/1S3zzkkUYJjYSKfk0sHkEZZwDiR7GV7ml3LqG60P_B0c/edit
 Return
 
 ;<--Paranoia
@@ -206,10 +212,6 @@ Return
 
 ^.::
 	Run, https://translate.yandex.ru/
-Return
-
-^w::
-	Run, https://translate.google.ru/#en/ru/
 Return
 
 ^o::
