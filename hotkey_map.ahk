@@ -228,8 +228,7 @@ Return
 Return
 
 ^e::
-	Run, https://script.google.com/d/1bC3VKFx2-1uzzqBhpgmfqdh3K3yxJVx7NpLQx8U80ZZwawC8pdhVvCo_/edit?mid=ACjPJvF8oGQEu_I1xje60z2eusZMuq6BoW1xBRKRgOwOkZv97-N1jo46mOmg6Vbfb5UGCRZ8Aynj_PnSl7h9gVyIm8VgRIBQlnrdjvXobHh5bhGvgGmaZN_D_HM8LKEcErV-7SsXJGr_R3U&uiv=2
-Return
+Return, https://docs.google.com/spreadsheets/d/1iwjRdm5ZIgXy7pwrh3Rk07blsiSr8VMmR0W18Iv4Fbs/edit#gid=0
 
 ^b::
 	Run, https://docs.google.com/forms/d/1gluxblHuneSnMBHhKdJN7JQ8GSVxmURSzscQ0n1GcRE/viewform
