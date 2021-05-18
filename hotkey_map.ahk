@@ -233,7 +233,7 @@ Return
    Send, yuriykochetkov@gmail.com
 Return
 
-^t::
+^!T::
   YEAR := SubStr(A_NowUTC, 1, 4)
   MONTH := SubStr(A_NowUTC, 5, 2)
   DAY := SubStr(A_NowUTC, 7, 2)
@@ -242,6 +242,11 @@ Return
   S := SubStr(A_NowUTC, 13, 2)
   Send, %A_YYYY%-%A_MM%-%A_DD% %A_Hour%:%A_Min%:%A_Sec% %YEAR%-%MONTH%-%DAY% %H%:%M%:%S%
 Return
+
+^t::
+  Send, %A_YYYY%-%A_MM%-%A_DD% %A_Hour%:%A_Min%:%A_Sec%
+Return
+
 
 ^e::
   Run, https://script.google.com/d/1bC3VKFx2-1uzzqBhpgmfqdh3K3yxJVx7NpLQx8U80ZZwawC8pdhVvCo_/edit?mid=ACjPJvF8oGQEu_I1xje60z2eusZMuq6BoW1xBRKRgOwOkZv97-N1jo46mOmg6Vbfb5UGCRZ8Aynj_PnSl7h9gVyIm8VgRIBQlnrdjvXobHh5bhGvgGmaZN_D_HM8LKEcErV-7SsXJGr_R3U&uiv=2
