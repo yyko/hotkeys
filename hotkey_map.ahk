@@ -1,3 +1,27 @@
+;<--
+
+^8::
+;<-- open matrix app
+  Run, https://script.google.com/macros/s/AKfycbwwbg0mPXWTasMqiJOYQa7r3SKOR9vouF7OJx0U4iTu/dev
+Return
+
+^5::
+;<-- lifetracker embeded google scipt
+Run, https://docs.google.com/spreadsheets/d/1mAJi5PFJXOmPgyeGLvtRZNjYZwV3PBoCdExMLvXEpFA/edit?usp=sharing
+Return
+
+;<--Google Drive yuriykochetkov@gmail.com in browser
+^!6::
+  Run, https://drive.google.com/drive/folders/0B5HssUglaWiseGdoelJUOTRaQ3c
+Return
+
+;<--</asdfghjkl;'>
+
+^7::
+;<--acs interface in brows
+  Run, http://first.sedecilliard.com/myspace/
+Return
+
 Capslock::Esc
 
 ;<--ctrlaltshift ****************************************************************************************************************
@@ -58,7 +82,7 @@ Return
 
 ;<-- Error registration
 ^!e::
-  Run, https://docs.google.com/forms/d/1cq8Fp1qd7sudFl3koWkR8Ccdh25lvMs0uTVRoEKTo6Y/viewform
+  Run, https://docs.google.com/spreadsheets/d/1iwjRdm5ZIgXy7pwrh3Rk07blsiSr8VMmR0W18Iv4Fbs/edit#gid=0
 Return
 
 ;<-- Cardano rate
@@ -89,7 +113,7 @@ Return
 
 ;<-- Spain phone number to keyboard
 ^BS::
-SendRaw, +59899322122
+SendRaw, +18492053438
 Return
 
 ^1::
@@ -125,10 +149,6 @@ Return
 	Run, http://first.sedecilliard.com/myspace/diary
 Return
 
-^5::
-;<-- lifetracker
-	Run, https://docs.google.com/spreadsheets/d/1573LZ-IIgQTpJztKw3upmzBdwEyl1OSbjGDtAw_IM9A/edit#gid=313180760
-Return
 
 ^4::
 ;<-- workshop
@@ -141,16 +161,6 @@ Return
 
 ^6::
 	Run, https://drive.google.com/drive/my-drive
-Return
-
-^7::
-;<--acs interface
-	Run, http://first.sedecilliard.com/myspace/
-Return
-
-^8::
-;<--acs tests
-	Run, http://first.sedecilliard.com/tests/
 Return
 
 ^'::
