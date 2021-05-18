@@ -244,7 +244,8 @@ Return
 Return
 
 ^e::
-Return, https://docs.google.com/spreadsheets/d/1iwjRdm5ZIgXy7pwrh3Rk07blsiSr8VMmR0W18Iv4Fbs/edit#gid=0
+  Run, https://docs.google.com/spreadsheets/d/1iwjRdm5ZIgXy7pwrh3Rk07blsiSr8VMmR0W18Iv4Fbs/edit#gid=0
+Return
 
 ^b::
 	Run, https://docs.google.com/forms/d/1gluxblHuneSnMBHhKdJN7JQ8GSVxmURSzscQ0n1GcRE/viewform
