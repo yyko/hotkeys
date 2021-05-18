@@ -234,7 +234,13 @@ Return
 Return
 
 ^t::
-   Send, %A_YYYY%-%A_MM%-%A_DD% %A_Hour%:%A_Min%:%A_Sec%
+  YEAR := SubStr(A_NowUTC, 1, 4)
+  MONTH := SubStr(A_NowUTC, 5, 2)
+  DAY := SubStr(A_NowUTC, 7, 2)
+  H := SubStr(A_NowUTC, 9, 2)
+  M := SubStr(A_NowUTC, 11, 2)
+  S := SubStr(A_NowUTC, 13, 2)
+  Send, %A_YYYY%-%A_MM%-%A_DD% %A_Hour%:%A_Min%:%A_Sec% %YEAR%-%MONTH%-%DAY% %H%:%M%:%S%
 Return
 
 ^e::
