@@ -227,7 +227,7 @@ Return
 Return
 
 ^e::
-	Run, http://first.sedecilliard.com/myspace/new_event
+	Run, https://script.google.com/d/1bC3VKFx2-1uzzqBhpgmfqdh3K3yxJVx7NpLQx8U80ZZwawC8pdhVvCo_/edit?mid=ACjPJvF8oGQEu_I1xje60z2eusZMuq6BoW1xBRKRgOwOkZv97-N1jo46mOmg6Vbfb5UGCRZ8Aynj_PnSl7h9gVyIm8VgRIBQlnrdjvXobHh5bhGvgGmaZN_D_HM8LKEcErV-7SsXJGr_R3U&uiv=2
 Return
 
 ^b::
